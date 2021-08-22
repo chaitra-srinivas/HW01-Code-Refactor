@@ -43,6 +43,11 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
+/* h3 element selector for all the 3 h3s */
+h3{
+    margin-bottom: 10px;
+    text-align: center;
+}
 
 /* anchor element selector */
 a {
@@ -60,7 +65,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("/assets/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -96,12 +101,6 @@ p {
 .benefit-lead  {
     margin-bottom: 32px;
     color: #ffffff;
-}
-
-/* h3 element selector for all the 3 h3s */
-h3{
-    margin-bottom: 10px;
-    text-align: center;
 }
 
 .benefit-lead img {
@@ -141,7 +140,6 @@ img {
 .footer h2 {
     font-size: 20px;
 }
-
 
 /*
 
