@@ -22,6 +22,7 @@ Github repo:
 https://github.com/chaitra-srinivas/HW01-Code-Refactor
 
 Github pages:
+https://chaitra-srinivas.github.io/HW01-Code-Refactor/
 
 
 
