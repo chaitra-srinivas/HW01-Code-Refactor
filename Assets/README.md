@@ -13,9 +13,9 @@ In this assignment I have tried to refactor an existing code base. I have attemp
 
 
 Screen shots:
-1. ![Title page.](./Assets/Screenshots/Titlepage.png)
-2. ![Links working.](./Assets/Screenshots/WorkingLinks.png)
-3. ![Entire page.](./Assets/Screenshots/EntirePage.png)
+1. ![Title page.](./Screenshots/Titlepage.png)
+2. ![Links working.](./Screenshots/WorkingLinks.png)
+3. ![Entire page.](./Screenshots/EntirePage.png)
 
 
 Github repo:
